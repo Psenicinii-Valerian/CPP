@@ -1,0 +1,3 @@
+﻿  STL.cpp
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\Programarea orientata obiect\Lectia 23\STL\STL\STL.cpp(181,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  STL.vcxproj -> C:\Users\Valerian\OneDrive\Desktop\STEP IT\Programarea orientata obiect\Lectia 23\STL\x64\Debug\STL.exe

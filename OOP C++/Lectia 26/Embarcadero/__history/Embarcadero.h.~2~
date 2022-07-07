@@ -1,0 +1,21 @@
+//---------------------------------------------------------------------------
+
+#ifndef EmbarcaderoH
+#define EmbarcaderoH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+//---------------------------------------------------------------------------
+class TXXXXX : public TForm
+{
+__published:	// IDE-managed Components
+private:	// User declarations
+public:		// User declarations
+	__fastcall TXXXXX(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TXXXXX *XXXXX;
+//---------------------------------------------------------------------------
+#endif

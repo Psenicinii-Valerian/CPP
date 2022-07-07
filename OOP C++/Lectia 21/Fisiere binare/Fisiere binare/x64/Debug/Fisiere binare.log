@@ -1,0 +1,4 @@
+﻿  Fisiere_binare.cpp
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\Programarea orientata obiect\Lectia 21\Fisiere binare\Fisiere binare\Fisiere_binare.cpp(191,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\Programarea orientata obiect\Lectia 21\Fisiere binare\Fisiere binare\Fisiere_binare.cpp(242,23): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Fisiere binare.vcxproj -> C:\Users\Valerian\OneDrive\Desktop\STEP IT\Programarea orientata obiect\Lectia 21\Fisiere binare\x64\Debug\Fisiere binare.exe

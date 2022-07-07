@@ -1,0 +1,3 @@
+﻿  Prelucrarea exceptiilor.cpp
+C:\Users\Valerian\OneDrive\Desktop\STEP IT\Programarea orientata obiect\Lectia 19\Continuare prelucrarea exceptiilor\Prelucrarea exceptiilor\Prelucrarea exceptiilor.cpp(138,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Prelucrarea exceptiilor.vcxproj -> C:\Users\Valerian\OneDrive\Desktop\STEP IT\Programarea orientata obiect\Lectia 19\Continuare prelucrarea exceptiilor\x64\Debug\Prelucrarea exceptiilor.exe

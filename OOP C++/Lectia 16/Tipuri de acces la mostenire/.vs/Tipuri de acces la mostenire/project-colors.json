@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "049b9f08-bd15-49c9-becd-84c0dca4dbcb": {
+      "ProjectGuid": "049b9f08-bd15-49c9-becd-84c0dca4dbcb",
+      "DisplayName": "Tipuri de acces la mostenire",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

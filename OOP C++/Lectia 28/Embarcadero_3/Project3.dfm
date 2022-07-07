@@ -1,0 +1,71 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 604
+  ClientWidth = 892
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Splitter1: TSplitter
+    Left = 0
+    Top = 0
+    Height = 604
+    ExplicitLeft = 856
+    ExplicitTop = 232
+    ExplicitHeight = 100
+  end
+  object Memo1: TMemo
+    Left = 64
+    Top = 81
+    Width = 433
+    Height = 481
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -29
+    Font.Name = 'Yu Gothic UI'
+    Font.Style = [fsBold]
+    Lines.Strings = (
+      '')
+    ParentFont = False
+    ScrollBars = ssVertical
+    TabOrder = 0
+  end
+  object Start: TButton
+    Left = 64
+    Top = 16
+    Width = 217
+    Height = 59
+    Caption = 'Start'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -35
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 1
+    OnClick = StartClick
+  end
+  object Stop: TButton
+    Left = 287
+    Top = 16
+    Width = 217
+    Height = 59
+    Caption = 'Stop'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -35
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 2
+    OnClick = StopClick
+  end
+end
